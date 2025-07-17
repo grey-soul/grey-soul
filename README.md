@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grey-soul
 - 👀 I’m interested in Cybersecurity, App Development, AI, Machine Learning, and exploring how technology can revolutionize startups.
-- 🌱 I’m currently learning Cloud Security.
+- 🌱 I’m currently exploring Web App Pentesting.
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, AI/ML applications, and developing innovative tech solutions for startups.
 - 📫 How to reach me: I will update it later XD
 - 😄 Pronouns: He/Him
